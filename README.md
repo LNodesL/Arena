@@ -1,5 +1,13 @@
 # Arena FPS Prototype
 
+https://blocks-arena.vercel.app/
+
+NOTE: This repo is in an in-progress state as of Feb 2026. The game features randomization for blocks dropping from sky onto the floor, buggy player jumping and ability to hop onto blocks, and basic projectile shooting with the equipped wep, in first person view for FPS style. The game does not include player body (hovering firearm) or proper collision control. 
+
+It is possible that this repo could be discontinued in favor of a better game engine framework to build from. 
+
+
+
 Fast 3D first-person shooter sandbox built with open source libraries:
 - `three.js` for rendering and FPS camera controls
 - `cannon-es` for rigid-body physics and collisions
